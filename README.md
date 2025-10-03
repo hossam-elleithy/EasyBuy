@@ -46,9 +46,4 @@ It simulates a complete online store workflow: product browsing, search & filter
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/easybuy.git
-   cd easybuy
